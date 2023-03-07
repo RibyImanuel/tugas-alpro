@@ -1,5 +1,5 @@
 Masukan Bilangan                : 
 Masukan Prosedur ( x / + - )    : 
-Error!!! TOlong Masukan Input Dengan Benar
+Error!!! Tolong Masukan Input Dengan Benar
 Hasil Dari 
 Apakah Anda ingin Mengulang? (ya/tidak) : 

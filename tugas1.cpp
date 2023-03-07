@@ -12,7 +12,7 @@ float nilai1, nilai2, hasil;
 
 void text(){
     // text mengambil dari file .txt
-    // link file saya upload di github
+    // link file saya upload di github https://github.com/RibyImanuel/tugas-alpro
     ifstream myfile;
     myfile.open("text_1.txt");
     getline(myfile,text_input1);
